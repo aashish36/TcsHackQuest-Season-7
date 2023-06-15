@@ -1,5 +1,5 @@
 # TcsHackQuest-Season-7
-TCS HackQuest Season 7
+TCS HackQuest Season 7 Files
 
 About TCS Hackquest:
       TCS HackQuest season 7 organized by TCS Cyber Security Unit  as a serious attempt to unearth specific talent who excelled in their favorite game - Catch the Flag! Based on the popular “Catch the Flag” (CTF) format, the competition presents a series of challenges to be completed in 6 hours. Each challenge assesses participant skills in ethical hacking and their particular skill in finding vulnerabilities. TCS Cyber ​​Security Practice is seeking students and enthusiasts who are passionate about ethical hacking and, in general, securing the digital future of organizations engaged in the transaction of millions of data points around the world.
