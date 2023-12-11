@@ -4,7 +4,6 @@ TCS HackQuest Season 7 Files
 
 <h4> This are following TCS HackQuest Season 7 writeups.....</h4>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=-XE6QpDoYDA" >Youtube video</a></li>
   <li><a href="https://1nf3rn0-h.medium.com/tcs-hackquest-season-7-round-1-writeup-6ee5d83c873f" >Write Up 1</a></li>
   <li><a href="https://medium.com/@shaan_subhraneel/tcs-hackquest-season-07-round-01-walkthroughs-a91799fe367d" >Write Up 2</a></li>
   <li><a href="https://www.youtube.com/watch?v=-XE6QpDoYDA&list=PLRuPwgSmHlCEbKKq5F5I2FDzkpPgi4ZEJ&index=1" >TCS HackQuest Season 7 Walkthrough</a></li>
